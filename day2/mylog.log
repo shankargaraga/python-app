@@ -1,0 +1,12 @@
+2025-02-01 15:40:15,053 - python-app:27588 - root - DEBUG - Debug error occured in code
+2025-02-01 15:40:15,053 - python-app:27588 - root - INFO - Info: admin logged in
+2025-02-01 15:40:15,053 - python-app:27588 - root - WARNING - warning: less hard diskspace
+2025-02-01 15:40:15,053 - python-app:27588 - root - ERROR - Error: file is not found exception
+2025-02-01 15:40:15,053 - python-app:27588 - root - CRITICAL - critical: app crashed
+2025-02-01 15:40:15,053 - python-app:27588 - root - INFO - ismart-shankar has loggin in
+2025-02-01 15:40:15,053 - python-app:27588 - root - ERROR - exception occured
+Traceback (most recent call last):
+  File "C:\Users\umashankar.garaga\Desktop\python-app\day2\logdemo.py", line 18, in <module>
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
